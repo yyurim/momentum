@@ -1,4 +1,4 @@
-# momentum
+# Momentum
 ### SSAFY 5기 7주차 웹 프로젝트 - 날씨 정보 제공 웹
 
 #### 메인 화면
